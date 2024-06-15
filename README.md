@@ -1,5 +1,5 @@
 # Review Form - NextJS
-s
+
 ## Features 
 Handle ratings<br>
 Use Local Storage<br>
